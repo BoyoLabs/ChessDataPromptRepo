@@ -1,0 +1,1 @@
+This is a raw data/analysis prompt repo regarding a personal chess evaluation and analysis for LLM's on bullet chess games of my heuristical style. It is more a useful (to me) proof of concept. The hope in sharing this prompt repo is that prompt engineering is proven to be a form of meta-programming.
