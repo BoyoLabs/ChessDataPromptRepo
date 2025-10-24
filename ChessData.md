@@ -168,3 +168,66 @@
 ### My time management seemed good, winning on time as well as checkmate.
 
 ---
+
+## 1+0 played as white (win)
+### Game Data:
+#### [Event "rated bullet game"]
+[Site "https://lichess.org/Ro4Bc2mb"]
+[Date "2025.10.24"]
+[White "boyo1991"]
+[Black "ghost77377"]
+[Result "1-0"]
+[GameId "Ro4Bc2mb"]
+[UTCDate "2025.10.24"]
+[UTCTime "01:13:50"]
+[WhiteElo "1464"]
+[BlackElo "1430"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. d3 { [%clk 0:01:00] } { A00 Mieses Opening } 1... Nf6 { [%clk 0:01:00] } 2. Nd2 { [%clk 0:01:00] } 2... g6 { [%clk 0:01:00] } 3. h3 { [%clk 0:01:00] } 3... Bg7 { [%clk 0:00:59] } 4. e3 { [%clk 0:00:59] } 4... O-O { [%clk 0:00:59] } 5. Ne2 { [%clk 0:00:59] } 5... c6 { [%clk 0:00:58] } 6. g3 { [%clk 0:00:58] } 6... b6 { [%clk 0:00:58] } 7. b3 { [%clk 0:00:58] } 7... Bb7 { [%clk 0:00:58] } 8. Bb2 { [%clk 0:00:57] } 8... d6 { [%clk 0:00:57] } 9. Rb1 { [%clk 0:00:57] } 9... c5 { [%clk 0:00:57] } 10. Bg2 { [%clk 0:00:56] } 10... Nc6 { [%clk 0:00:56] } 11. O-O { [%clk 0:00:55] } 11... Nb4 { [%clk 0:00:54] } 12. c4 { [%clk 0:00:53] } 12... Bxg2 { [%clk 0:00:53] } 13. Kxg2 { [%clk 0:00:52] } 13... Qb8 { [%clk 0:00:51] } 14. Kh2 { [%clk 0:00:51] } 14... Qb7 { [%clk 0:00:48] } 15. e4 { [%clk 0:00:50] } 15... e6 { [%clk 0:00:45] } 16. g4 { [%clk 0:00:49] } 16... Qd7 { [%clk 0:00:43] } 17. f3 { [%clk 0:00:48] } 17... e5 { [%clk 0:00:43] } 18. Ng3 { [%clk 0:00:47] } 18... Bh6 { [%clk 0:00:41] } 19. Qe1 { [%clk 0:00:45] } 19... Nxd3 { [%clk 0:00:38] } 20. Qd1 { [%clk 0:00:43] } 20... Nxb2 { [%clk 0:00:35] } 21. Rxb2 { [%clk 0:00:39] } 21... Qc6 { [%clk 0:00:33] } 22. Qe2 { [%clk 0:00:37] } 22... Rfe8 { [%clk 0:00:32] } 23. Qf2 { [%clk 0:00:36] } 23... Qc7 { [%clk 0:00:27] } 24. Rbb1 { [%clk 0:00:36] } 24... Rad8 { [%clk 0:00:27] } 25. Rbd1 { [%clk 0:00:35] } 25... d5 { [%clk 0:00:26] } 26. Nb1 { [%clk 0:00:33] } 26... dxc4 { [%clk 0:00:25] } 27. bxc4 { [%clk 0:00:31] } 27... Rxd1 { [%clk 0:00:24] } 28. Rxd1 { [%clk 0:00:30] } 28... Rd8 { [%clk 0:00:24] } 29. Nc3 { [%clk 0:00:27] } 29... Rxd1 { [%clk 0:00:22] } 30. Nxd1 { [%clk 0:00:27] } 30... a6 { [%clk 0:00:21] } 31. Qg2 { [%clk 0:00:27] } 31... Qc6 { [%clk 0:00:20] } 32. Nf2 { [%clk 0:00:26] } 32... Be3 { [%clk 0:00:19] } 33. Qf1 { [%clk 0:00:25] } 33... Qa4 { [%clk 0:00:18] } 34. Ne2 { [%clk 0:00:22] } 34... Qxa2 { [%clk 0:00:16] } 35. Nd1 { [%clk 0:00:21] } 35... Qd2 { [%clk 0:00:13] } 36. Nxe3 { [%clk 0:00:19] } 36... Qxe3 { [%clk 0:00:12] } 37. Qe1 { [%clk 0:00:18] } 37... Nd7 { [%clk 0:00:09] } 38. Qh1 { [%clk 0:00:17] } 38... Qd2 { [%clk 0:00:08] } 39. Qf1 { [%clk 0:00:15] } 39... Qc2 { [%clk 0:00:07] } 40. Kg2 { [%clk 0:00:14] } 40... Qd2 { [%clk 0:00:06] } 41. Kf2 { [%clk 0:00:13] } 41... b5 { [%clk 0:00:06] } 42. Qe1 { [%clk 0:00:13] } 42... bxc4 { [%clk 0:00:05] } 43. Qxd2 { [%clk 0:00:11] } 43... c3 { [%clk 0:00:04] } 44. Qxd7 { [%clk 0:00:08] } 44... a5 { [%clk 0:00:04] } 45. Qd8+ { [%clk 0:00:08] } 45... Kg7 { [%clk 0:00:04] } 46. Nf4 { [%clk 0:00:07] } 46... a4 { [%clk 0:00:04] } 47. Nd5 { [%clk 0:00:05] } 47... c2 { [%clk 0:00:04] } 48. Ne7 { [%clk 0:00:05] } 48... c1=Q { [%clk 0:00:03] } 49. Qg8+ { [%clk 0:00:05] } 49... Kf6 { [%clk 0:00:02] } 50. Nd5+ { [%clk 0:00:03] } 50... Kg5 { [%clk 0:00:01] } 51. Qd8+ { [%clk 0:00:01] } { White wins on time. } 1-0
+
+### Analysis:
+#### I was playing well, but I traded a lot and the time became a real problem
+#### I had a misclick which didn't result in a loss, obviously, but it did kill a bit of my clock
+#### I ended with the better position, but it was definitely a chaotic game and could have gone either way
+
+---
+
+## 1+0 played as white
+### Game Data:
+####[Event "rated bullet game"]
+[Site "https://lichess.org/C3VDqUnk"]
+[Date "2025.10.24"]
+[White "boyo1991"]
+[Black "Chessvi31"]
+[Result "1-0"]
+[GameId "C3VDqUnk"]
+[UTCDate "2025.10.24"]
+[UTCTime "18:40:11"]
+[WhiteElo "1470"]
+[BlackElo "1437"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d3 { [%clk 0:01:00] } { A00 Mieses Opening } 1... d6 { [%clk 0:01:00] } 2. Nd2 { [%clk 0:01:00] } 2... g6 { [%clk 0:00:59] } 3. e3 { [%clk 0:01:00] } 3... Bg7 { [%clk 0:00:59] } 4. Ne2 { [%clk 0:01:00] } 4... Nf6 { [%clk 0:00:58] } 5. g3 { [%clk 0:01:00] } 5... O-O { [%clk 0:00:57] } 6. h3 { [%clk 0:00:59] } 6... e5 { [%clk 0:00:57] } 7. b3 { [%clk 0:00:58] } 7... Be6 { [%clk 0:00:56] } 8. Bb2 { [%clk 0:00:58] } 8... Nc6 { [%clk 0:00:55] } 9. a3 { [%clk 0:00:57] } 9... Na5 { [%clk 0:00:54] } 10. Rb1 { [%clk 0:00:55] } 10... c5 { [%clk 0:00:53] } 11. Bg2 { [%clk 0:00:55] } 11... Rb8 { [%clk 0:00:47] } 12. O-O { [%clk 0:00:54] } 12... b5 { [%clk 0:00:46] } 13. c4 { [%clk 0:00:54] } 13... bxc4 { [%clk 0:00:44] } 14. dxc4 { [%clk 0:00:53] } 14... Nxc4 { [%clk 0:00:43] } 15. Nxc4 { [%clk 0:00:52] } 15... Bxc4 { [%clk 0:00:41] } 16. bxc4 { [%clk 0:00:52] } 16... Qa5 { [%clk 0:00:39] } 17. Qc2 { [%clk 0:00:49] } 17... Nd7 { [%clk 0:00:36] } 18. Bc3 { [%clk 0:00:46] } 18... f5 { [%clk 0:00:35] } 19. Bxa5 { [%clk 0:00:45] } 19... Rxb1 { [%clk 0:00:34] } 20. Qxb1 { [%clk 0:00:44] } 20... Rb8 { [%clk 0:00:31] } 21. Qc1 { [%clk 0:00:41] } 21... Rb3 { [%clk 0:00:28] } 22. Nc3 { [%clk 0:00:40] } 22... e4 { [%clk 0:00:27] } 23. Nd5 { [%clk 0:00:37] } 23... Nf6 { [%clk 0:00:23] } 24. Ne7+ { [%clk 0:00:35] } 24... Kf7 { [%clk 0:00:21] } 25. Qc2 { [%clk 0:00:33] } 25... Rb2 { [%clk 0:00:15] } 26. Qxb2 { [%clk 0:00:31] } 26... Ng4 { [%clk 0:00:14] } 27. Qb7 { [%clk 0:00:30] } 27... Nxf2 { [%clk 0:00:10] } 28. Nxg6+ { [%clk 0:00:26] } { Black resigns. } 1-0
+
+### Analysis:
+#### while I had good use of time, my opponent blundered their queen and I spotted it
+#### once I had a better position, I really wasn't exactly sure what to do with it -- there didn't seem to be many tactical motifs
+
+---
+
+
