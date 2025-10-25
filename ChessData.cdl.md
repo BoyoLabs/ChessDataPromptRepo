@@ -1,7 +1,11 @@
 # This is a data set for my chess games and personal analysis.
-[^note]: this dataset is set up and maintained by Boyo Labs as a personal dataset for my play style, current version .03 PRE-ALPHA
+[^note]: this dataset is set up and maintained by Boyo Labs as a personal dataset for my play style, current version .1 ALPHA
 
 [^persona prompt]: You are a chess analysis tool that considers the following chess data weighting time and position equally. You value heuristical play in bullet chess -- the best move isn't the /"best/" move, but a move that isn't terrible that also is made as fast as possible.
+
+[^conditional prompt]: If and only if the user requests for an analysis of an annotated PGN they provide, analyze the game using the below game data and analysis to provide a positional and time -- weighted equally -- analysis in terms of centipawn loss.
+
+[^conditional prompt]: If and only if the user requests general information from the dataset below, be sure to include centipawn loss weighted equally between position and time.
 
 [^contextual prompt]: The following document requires you to read both the Data fields as well as Analysis fields and evaluate them separately
 
@@ -258,5 +262,36 @@
 #### I was incredibly distracted this game (annoyingly so) and playing against a strong opponent.
 #### I was wasting time on poor moves
 #### this is a good instructional game to remember to play without distractions.
+
+---
+
+## 1+0 played as white (win)
+
+### Game Data:
+#### [Event "rated bullet game"]
+[Site "https://lichess.org/gXDIzHMt"]
+[Date "2025.10.25"]
+[White "boyo1991"]
+[Black "baqueta2b"]
+[Result "1-0"]
+[GameId "gXDIzHMt"]
+[UTCDate "2025.10.25"]
+[UTCTime "15:12:26"]
+[WhiteElo "1471"]
+[BlackElo "1512"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. d3 { [%clk 0:01:00] } { A00 Mieses Opening } 1... e6 { [%clk 0:01:00] } 2. Nd2 { [%clk 0:01:00] } 2... Nf6 { [%clk 0:00:59] } 3. e3 { [%clk 0:01:00] } 3... d5 { [%clk 0:00:58] } 4. h3 { [%clk 0:01:00] } 4... b5 { [%clk 0:00:54] } 5. Ne2 { [%clk 0:00:59] } 5... a6 { [%clk 0:00:53] } 6. a3 { [%clk 0:00:59] } 6... Nbd7 { [%clk 0:00:51] } 7. b3 { [%clk 0:00:58] } 7... Nb6 { [%clk 0:00:50] } 8. Bb2 { [%clk 0:00:57] } 8... Bd6 { [%clk 0:00:47] } 9. g3 { [%clk 0:00:56] } 9... Nfd7 { [%clk 0:00:46] } 10. Bg2 { [%clk 0:00:56] } 10... h5 { [%clk 0:00:43] } 11. c4 { [%clk 0:00:54] } 11... bxc4 { [%clk 0:00:42] } 12. dxc4 { [%clk 0:00:54] } 12... Rb8 { [%clk 0:00:40] } 13. b4 { [%clk 0:00:49] } 13... a5 { [%clk 0:00:38] } 14. c5 { [%clk 0:00:48] } 14... Nc4 { [%clk 0:00:35] } 15. Nxc4 { [%clk 0:00:46] } 15... Bxg3 { [%clk 0:00:25] } 16. fxg3 { [%clk 0:00:44] } 16... dxc4 { [%clk 0:00:24] } 17. Bxg7 { [%clk 0:00:41] } 17... Rg8 { [%clk 0:00:23] } 18. Bc3 { [%clk 0:00:39] } 18... Qg5 { [%clk 0:00:19] } 19. Qd2 { [%clk 0:00:36] } 19... c6 { [%clk 0:00:14] } 20. O-O-O { [%clk 0:00:35] } 20... Bb7 { [%clk 0:00:12] } 21. Kc2 { [%clk 0:00:34] } 21... Rd8 { [%clk 0:00:11] } 22. Kb2 { [%clk 0:00:33] } 22... Nf6 { [%clk 0:00:09] } 23. h4 { [%clk 0:00:32] } 23... Rxd2+ { [%clk 0:00:07] } 24. Rxd2 { [%clk 0:00:31] } 24... Qg6 { [%clk 0:00:06] } 25. e4 { [%clk 0:00:29] } 25... Ng4 { [%clk 0:00:04] } 26. Ng1 { [%clk 0:00:27] } 26... Ne3 { [%clk 0:00:02] } 27. Nh3 { [%clk 0:00:25] } 27... Qxg3 { [%clk 0:00:00] } 28. Ng1 { [%clk 0:00:23] } 28... Qe5 { [%clk 0:00:00] } 29. Ne2 { [%clk 0:00:22] } { White wins on time. } 1-0
+
+### Analysis:
+#### it was a pretty decent game all around, I again dropped my queen, but in bullet chess it seems the queen isn't all that important in every instance. It often does lead to a bad position, but if your queen wasn't doing that much anyways then it seems to be okay
+#### At the end, they blundered their queen and I didn't see it, but I was playing the clock since their time was so low I was just making any move.
 
 ---
